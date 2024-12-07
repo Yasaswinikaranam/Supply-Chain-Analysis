@@ -40,6 +40,7 @@ Strategic Insights:
 
 Observation periods were critical for understanding system dynamics and ensuring informed decision-making.
 Focused interventions on bottleneck stations and underutilized resources improved overall system flow.
+
 Lessons Learned:
 
 Addressing bottlenecks is essential to maximizing system throughput and revenue potential.
